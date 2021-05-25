@@ -1,4 +1,5 @@
 var skinRender = new SkinRender({
+  autoResize: true,
   controls: {
     enabled: true,
     zoom: false,
